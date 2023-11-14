@@ -50,3 +50,11 @@ int main()
         cout << "false";
     }
 }
+
+
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin git@github.com:kiyakebe/cpd-dsa-solution.git
+// git push -u origin main
